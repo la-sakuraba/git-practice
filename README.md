@@ -1,4 +1,4 @@
 # git-practice
-こ�?リポジトリはGit動画講座
+こ�?リポジトリはGit動画講座
 
-stash コンフリク�
+stash トラック済み
